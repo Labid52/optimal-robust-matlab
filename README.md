@@ -1,5 +1,5 @@
-# Inverted Pendulum on a Cart (IPOC) Control System
-
+# Optimal and robust control of Inverted Pendulum on a Cart (IPOC)
+[Late Upload]
 This repository presents a collection of MATLAB scripts and tools for the simulation and control of an inverted pendulum on a cart (IPOC) system. The IPOC is a widely studied benchmark problem in control theory due to its nonlinear and unstable dynamics. This project explores multiple control strategies including:
 
 * **Pontryagin’s Minimum Principle (PMP)**-based optimal control

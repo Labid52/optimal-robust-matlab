@@ -29,4 +29,10 @@ lqr_dynamic_programming.m
 lqr_pendulum_cart.m
 ```
 
+<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/14abd5ec-1c39-4414-b22d-64849e625cee" />
+
+<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/f6638772-7dac-4984-b058-88446557e139" />
+<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/3c1f30b3-9eff-4c1f-be8e-4a4a96037c4e" />
+<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/1284f3fd-ab9d-4b2a-b7ab-fc8ab8dd6684" />
+
 
